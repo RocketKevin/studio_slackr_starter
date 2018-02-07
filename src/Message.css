@@ -16,3 +16,14 @@
 .Message-contents {
   margin: 5px 0;
 }
+
+
+.Message-contents-secret {
+  margin: 5px 0;
+  background-color: gray;
+} 
+
+.Message-icon {
+    border: 2px solid red;
+    border-radius: 12px;
+}
